@@ -28,4 +28,3 @@ The assignment includes working with strings such as "Hello" and "Python beginne
 
 Python-Fundamentals-Assignments/
      Python_Assignment_1_Strings_and_Tuples.ipynb
-    README.md
